@@ -1,1 +1,6 @@
-ls.txt
+total 40
+drwxr-xr-x  5 hhd2002  staff    170 Apr 23 11:00 .
+drwxr-xr-x  7 hhd2002  staff    238 Apr 23 10:59 ..
+-rw-r--r--  1 hhd2002  staff     37 Apr 23 10:59 .git
+-rw-r--r--  1 hhd2002  staff      0 Apr 23 11:04 ls.txt
+-rw-r--r--  1 hhd2002  staff  15828 Apr 23 11:00 manman.txt
